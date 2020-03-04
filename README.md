@@ -6,12 +6,15 @@ Repositorio donde se dockeriza una herramienta de Vigilancia Tecnologica
 
 #Ejecución
 * Realizar una copia del repositorio
+
 git clone https://github.com/JulianaCapador/Docker-Vigilancia-Tecnologica.git
 
 * Crear la imagen de docker y el contenedor
+
 sudo docker build -t "herramienta" .
 
 * Correr el docker
+
 sudo docker run -it --rm --name buscador herramienta
 
 
