@@ -4,7 +4,7 @@ Repositorio donde se dockeriza una herramienta de Vigilancia Tecnologica
 * Jorge Andrés Lucero Hernández 20152020082
 * Juliana Alexandra Capador Ochoa 20152020081
 
-#Ejecución
+# Ejecución
 * Realizar una copia del repositorio
 
 git clone https://github.com/JulianaCapador/Docker-Vigilancia-Tecnologica.git
